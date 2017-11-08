@@ -37,4 +37,4 @@ This function **will return** a pixel object which represents the complement col
 
 ## Gray scale
 
-This function finds the average r,g,b-value and **returns** the value: its a simgle number.
+This function finds the average r,g,b-value and **returns** the value: its a single number.
